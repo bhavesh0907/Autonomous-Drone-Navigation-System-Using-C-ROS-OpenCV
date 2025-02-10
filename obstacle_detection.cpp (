@@ -1,0 +1,8 @@
+#include "obstacle_detection.h"
+#include <opencv2/opencv.hpp>
+
+std::vector<std::pair<int, int>> detectObstacles() {
+    std::vector<std::pair<int, int>> obstacles;
+    // Process images to detect obstacles (Placeholder logic)
+    return obstacles;
+}
